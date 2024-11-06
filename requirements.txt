@@ -1,0 +1,8 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+databases==0.5.5
+sqlalchemy==2.0.19
+jinja2==3.1.2
+python-telegram-bot==13.10  # تأكد من مراجعة النسخة المتوافقة إذا كنت تستخدم Async
+aiofiles
+
